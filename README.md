@@ -1,5 +1,8 @@
 # ToDoList
 
+## Stručný popis aplikace 
+
+Aplikace, kde si uživatel může zapisovat všechny úkoly, které chce splnit. Vidí vstupní (input) pole, kde může uživatel přidat novou položku na seznam úkolů. Uživatel může úkol označit jako dokončený. Uživatel může smazat úkol. Uživatel si může vytvořit seznam úkolů a k seznamu přiřadit datum, do kdy má vytvořenou poznamku splnit.
 
 ## Použité nástroje: 
 - Unity
