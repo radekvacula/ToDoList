@@ -13,7 +13,7 @@ Aplikace, kde si uživatel může zapisovat všechny úkoly, které chce sp
 ## Wireframe
 
 
-![image](https://user-images.githubusercontent.com/90377932/149407087-f646fd6e-9667-4eba-9ff8-f8237982bb50.png)
+![image](https://user-images.githubusercontent.com/90377932/149407087-f646fd6e-9667-4eba-9ff8-f8237982bb50.png) 
 
 
 
